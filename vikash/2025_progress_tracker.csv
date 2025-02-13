@@ -40,9 +40,9 @@ DATE,HOURS_SPENT,TECHNOLOGY,DESCRIPTION
 08/02/25,,,
 09/02/25,3,gitHub java,SSHkey Leetcode
 10/02/25,3,Spring Boot,DataStructures
-11/02/25,2,DataStructures Spring boot,Github
-12/02/25,6,Spring boot DataStructures,Github Linkedin
-13/02/25,5,Spring boot DataStructures,Github
+11/02/25,2,DataStructures(HashMap RansomeNote-LeetCode Problem) Spring boot(Microservice-userservice),
+12/02/25,6,DataStructures(HashMap ValidAnagram-LeetCode Problem) Spring boot(Microservice-userservice),Linkedin
+13/02/25,5,DataStructures(HashMap LongestConsecutiveSequence -LeetCode Problem) Spring boot(Microservice-userservice),
 14/02/25,,,
 15/02/25,,,
 16/02/25,,,
